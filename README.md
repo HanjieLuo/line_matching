@@ -1,6 +1,8 @@
 # Line Matching
 A KLT-based line segment matching algorithm.
 
+Related project: [EDLine Parallel](https://github.com/HanjieLuo/EDLine_parallel)
+
 ![test image](./data/line_matching_result.png)
 
 ## References ## 
