@@ -32,9 +32,9 @@ Test:
 ```
 
 Test with EuRoc MAV dataset(MH_04_difficult):  
-[![](http://img.youtube.com/vi/3i1zt2bkSZc/0.jpg)](http://www.youtube.com/watch?v=3i1zt2bkSZc "")
+[![KLT-based Line Segment Matching Algorithm(Debug)](https://res.cloudinary.com/marcomontalbano/image/upload/v1612585399/video_to_markdown/images/youtube--3i1zt2bkSZc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3i1zt2bkSZc "KLT-based Line Segment Matching Algorithm(Debug)")
 
-[![](http://img.youtube.com/vi/OQyB3OdJg4w/0.jpg)](http://www.youtube.com/watch?v=OQyB3OdJg4w "")
+[![KLT-based Line Segment Matching Algorithm](https://res.cloudinary.com/marcomontalbano/image/upload/v1612585481/video_to_markdown/images/youtube--OQyB3OdJg4w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OQyB3OdJg4w "KLT-based Line Segment Matching Algorithm")
 
 ## Contact information ##
 Hanjie Luo [luohanjie@gmail.com](mailto:luohanjie@gmail.com)
